@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/Users/orisavir/cudart"
+      ],
+      "defines": [
+        "__CUDACC__"
+      ],
+      "intelliSenseMode": "macos-clang-arm64",
+      "cStandard": "c17",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
